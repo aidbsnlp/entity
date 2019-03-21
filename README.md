@@ -105,9 +105,13 @@ https://github.com/aidbsnlp/entity/blob/master/example.py
 
 The above results are not good enough, now please implement the similarity measure to re-rank re-rank them.
 
-(1)	(3pt) Construct a knowledge graph g(m) for each mention m, based on m’s neighbors derived from the sentence and its AMR graph. 
+(1)	(3pt) Construct a knowledge graph g(m) for each mention m, based on m’s neighbors derived from the sentence and its AMR graph.
+
 (2)	(3pt) Construct a knowledge graph g(e) for each candidate title e, based on e’s neighbors in the knowledge base (Wikipedia pages)
+
 (3)	(3pt) Compute the similarity between g(m) and g(e): 
+
 (4) (3pt) Report linking accuracy; and analyze errors: what improvement can we do? How to improve neighbor construction? How to improve feature representation (e.g., integrate emedding)?How to improve the similarity measure? Can we try to link multiple mentions simultaneously?
+
 (5) (up to 3 extra pt) Implement your ideas in (4).
 
