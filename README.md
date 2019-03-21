@@ -1,4 +1,5 @@
-# Assignment: Entity Linking *REFER TO assignment.pdf IN REPOSITORY TO SEE images* 
+# Assignment: Entity Linking 
+# *REFER TO assignment.pdf IN REPOSITORY TO SEE IMAGES & FORMATTING* 
 
 
 In this assignment, we will implement important similarity measures and features for entity linking: similarity and coherence.
