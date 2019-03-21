@@ -103,7 +103,7 @@ Format: JSON dict
 A Python example is available at: 
 https://github.com/aidbsnlp/entity/blob/master/example.py
 
-The above results are not good enough, now please implement the similarity measure to re-rank re-rank them.
+## 4. The above results are not good enough, now please implement the similarity measure to re-rank re-rank them.
 
 (1)	(3pt) Construct a knowledge graph g(m) for each mention m, based on m’s neighbors derived from the sentence and its AMR graph.
 
